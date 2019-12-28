@@ -3,8 +3,8 @@
 Here is my collection of leetcode exercises grouped by type:
 
 
-* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
-* [Tree](https://github.com/kamyu104/LeetCode-Solutions#tree)
+* [Array](https://github.com/soltex1/Leetcode-Javascript#array)
+* [Tree](https://github.com/soltex1/Leetcode-Javascript#tree)
 
 ## Array
 |  #  | Title           |  Solution       | Difficulty    | 
