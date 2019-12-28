@@ -1,8 +1,7 @@
 # LeetCode Javascript Solutions
 
-Here is my collection of leetcode exercises grouped by type.
+Here is my collection of leetcode exercises grouped by type:
 
-## Algorithms
 
 * [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
 
