@@ -18,6 +18,7 @@ Here is my collection of leetcode exercises grouped by type:
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
+257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)         | [257.js](./easy/257.js)     |  Easy    
 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)         | [501.js](./easy/501.js)     |  Easy    
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)         | [1302.js](./medium/1302.js)     |  Medium    
 
