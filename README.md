@@ -5,6 +5,7 @@ Here is my collection of leetcode exercises grouped by type:
 
 * [Array](https://github.com/soltex1/Leetcode-Javascript#array)
 * [Tree](https://github.com/soltex1/Leetcode-Javascript#tree)
+* [Hash](https://github.com/soltex1/Leetcode-Javascript#hash)
 
 ## Array
 |  #  | Title           |  Solution       | Difficulty    | 
@@ -25,3 +26,7 @@ Here is my collection of leetcode exercises grouped by type:
 
 
 
+## Hash
+|  #  | Title           |  Solution       | Difficulty    | 
+|-----|---------------- | --------------- | ------------- |
+500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/submissions/)         | [500.js](./easy/500.js)     |  Easy    
