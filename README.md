@@ -10,6 +10,7 @@ Here is my collection of leetcode exercises grouped by type:
 ## Array
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
+896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)         | [896.js](./easy/896..js)     |  Easy    
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)         | [1295.js](./easy/1295.js)     |  Easy    
 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/contest/biweekly-contest-16/problems/sum-of-mutated-array-closest-to-target/)         | [1300.js](./medium/1300.js)     |  Medium    
 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)         | [1310.js](./medium/1300.js)     |  Medium    
