@@ -6,10 +6,12 @@ Here is my collection of leetcode exercises grouped by type:
 * [Array](https://github.com/soltex1/Leetcode-Javascript#array)
 * [Tree](https://github.com/soltex1/Leetcode-Javascript#tree)
 * [Hash](https://github.com/soltex1/Leetcode-Javascript#hash)
+* [Linked List](https://github.com/soltex1/Leetcode-Javascript#linked-list)
 
 ## Array
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
+888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)         | [888.js](./easy/888..js)     |  Easy    
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)         | [896.js](./easy/896..js)     |  Easy    
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)         | [1295.js](./easy/1295.js)     |  Easy    
 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/contest/biweekly-contest-16/problems/sum-of-mutated-array-closest-to-target/)         | [1300.js](./medium/1300.js)     |  Medium    
@@ -31,3 +33,9 @@ Here is my collection of leetcode exercises grouped by type:
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/submissions/)         | [500.js](./easy/500.js)     |  Easy    
+
+
+## Linked List
+|  #  | Title           |  Solution       | Difficulty    | 
+|-----|---------------- | --------------- | ------------- |
+234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)         | [234.js](./easy/234.js)     |  Easy    
